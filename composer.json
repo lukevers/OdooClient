@@ -1,9 +1,9 @@
 {
-    "name": "jacobsteringa/odoo-client",
+    "name": "lukevers/odoo-client",
     "type": "library",
     "description": "A PHP Client for Odoo",
     "keywords": [],
-    "homepage": "https://github.com/jacobsteringa/OdooClient",
+    "homepage": "https://github.com/lukevers/OdooClient",
     "license": "MIT",
     "authors": [
         {
@@ -12,7 +12,7 @@
         }
     ],
     "require": {
-        "zendframework/zend-xmlrpc": "2.3.*",
+        "zendframework/zend-xmlrpc": "2.5.*",
         "zendframework/zendxml": "1.0.*"
     },
     "autoload": {
